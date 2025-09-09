@@ -15,16 +15,16 @@ With 3+ years of experience, I have built scalable pipelines, interactive dashbo
 ---
 
 ### 📌 **Featured Projects**
-- [**Monthly Report Automation**](https://github.com/andrewng-data/monthly-report-automation)  
+- [**Monthly Report Automation**](https://github.com/andrew-ng1/monthly-report-automation)  
   Automated end-to-end **ETL pipeline** for CRM data, reducing manual reporting effort by 95% and saving ~2 months of analyst time annually. Generates KPI-ready Excel and PowerPoint reports for internal and external stakeholders.  
 
-- [**Time-Series Forecasting Pipeline**](https://github.com/andrewng-data/time-series-forecast)  
+- [**Time-Series Forecasting Pipeline**](https://github.com/andrew-ng1/time-series-forecast)  
   Built a flexible forecasting pipeline using **SARIMA, Prophet, and Random Forest**, with automated model selection and accuracy evaluation to predict case volumes for operational planning.
 
-- [**HDFS Log Anomaly Detection**](https://github.com/andrewng-data/hdfs-anomaly-detection)  
+- [**HDFS Log Anomaly Detection**](https://github.com/andrew-ng1/hdfs-anomaly-detection)  
   Designed an NLP-based anomaly detection system for distributed system logs using **Word2Vec embeddings and CNN models** in PyTorch, improving detection accuracy and speed.
 
-- [**Student Loan Risk Modeling**](https://github.com/andrewng-data/loan-risk-modeling)  
+- [**Student Loan Risk Modeling**](https://github.com/andrew-ng1/loan-risk-modeling)  
   Developed and compared **logistic regression, Random Forest, XGBoost, and Keras neural networks**; achieved a **ROC-AUC of 0.95** and improved high-risk recall at 5% FPR by 76% points with interpretable feature importance.
 
 ---
