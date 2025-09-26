@@ -18,13 +18,13 @@ I'm passionate about deploying real-world AI and analytics solutions. I love tur
 
 ### 📌 **Featured Projects**
 
-- [**Student Loan Risk Modeling**](https://github.com/andrew-ng1/loan-risk-modeling)  
+- [**Student Loan Risk Modeling**](https://github.com/andrew-ng1/student_loan_risk_modelling)  
   Built and compared **logistic regression, Random Forest, XGBoost, and Keras deep neural network models** to predict high-risk applicants; best model achieved ROC-AUC 0.95 and captured 76% of risky loans at 5% FPR, with permutation importance explainability to inform underwriting policy.
 
-- [**HDFS Log Anomaly Detection**](https://github.com/andrew-ng1/hdfs-anomaly-detection)  
+- [**HDFS Log Anomaly Detection**](https://github.com/andrew-ng1/hdfs_log_anomaly_detection_oncloud)  
   Built an end-to-end **cloud pipeline (AWS EC2/S3 + CLI) to run NLP-based deep learning (CNN)** anomaly detection on 500K+ HDFS logs, achieving 95.6% accuracy and F1 = 0.977.
   
-- [**BC Surgical Wait Times Dashboard**](https://github.com/andrew-ng1/bc-waittime) 
+- [**BC Surgical Wait Times Dashboard**](https://github.com/andrew-ng1/bc-surgical-wait-times-dashboard) 
   Developed and deployed an interactive dashboard (Plotly Dash on Heroku) analyzing 12 years of BC surgical wait-time data; EDA revealed backlog growth and regional disparities, providing insights to aid BC health administrators in resource planning.
 
 ---
