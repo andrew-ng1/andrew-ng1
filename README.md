@@ -12,7 +12,6 @@ I'm passionate about deploying real-world AI and analytics solutions. I love tur
 ### 🔧 **Tech Stack**
 **Languages & Tools:** Python, SQL, Power BI, DAX, R, Excel, Git, MS Dynamics 365, XRM Toolbox  
 **Libraries & Frameworks:** pandas, numpy, matplotlib, scikit-learn, statsmodels, python-pptx, openpyxl, PyTorch 
-
 **Specialties:** Data Automation, Time-Series Forecasting, Machine Learning, ETL Pipelines, Dashboard Design  
 
 ---
