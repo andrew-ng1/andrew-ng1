@@ -26,9 +26,9 @@ I'm passionate about deploying real-world AI and analytics solutions. I love tur
   Built an end-to-end **cloud pipeline (AWS EC2/S3 + CLI) to run NLP-based deep learning (CNN)** anomaly detection on 500K+ HDFS logs, achieving 95.6% accuracy and F1 = 0.977.
   
 - [**BC Surgical Wait Times Dashboard**](https://github.com/andrew-ng1/bc-surgical-wait-times-dashboard) 
-  Developed and deployed an interactive dashboard (Plotly Dash on Heroku) analyzing 12 years of BC surgical wait-time data; EDA revealed backlog growth and regional disparities, providing insights to aid BC health administrators in resource planning.
+  Developed and deployed an **interactive dashboard (Plotly Dash on Heroku)** analyzing 12 years of BC surgical wait-time data; **EDA** revealed backlog growth and regional disparities, providing insights to aid BC health administrators in resource planning.
 
-- [**UBC MDS Distributed System Coursework**](https://github.com/andrew-ng1/spark-cassandra-labs) - Utilized Scala in Databricks to generate synthetic customer/order datasets, applied Spark (PySpark) to build distributed ETL pipelines on this data, and implemented Cassandra (NoSQL) schemas for student/course data with replication and CRUD queries.
+- [**UBC MDS Distributed System Coursework**](https://github.com/andrew-ng1/spark-cassandra-labs) - Utilized **Scala in Databricks** to generate synthetic customer/order datasets, applied **Spark (PySpark)** to build distributed **ETL** pipelines on this data, and implemented **Cassandra (NoSQL)** schemas for student/course data with replication and CRUD queries.
 
 ---
 
