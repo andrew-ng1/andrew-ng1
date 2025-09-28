@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Nguyen 👋  
 
-**Data Analyst/Data Scientist | Analytics • Automation • Forecasting**
+**Data Science & Analytics Professional | Analytics • ETL Automation • Forecasting**
 
 I specialize in transforming complex data into actionable insights through **automation, advanced analytics, and forecasting**.  
 With 3+ years of experience, I have built scalable pipelines, interactive dashboards, and predictive models that drive strategic decision-making and operational efficiency.
