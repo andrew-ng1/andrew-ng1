@@ -28,6 +28,8 @@ I'm passionate about deploying real-world AI and analytics solutions. I love tur
 - [**BC Surgical Wait Times Dashboard**](https://github.com/andrew-ng1/bc-surgical-wait-times-dashboard) 
   Developed and deployed an interactive dashboard (Plotly Dash on Heroku) analyzing 12 years of BC surgical wait-time data; EDA revealed backlog growth and regional disparities, providing insights to aid BC health administrators in resource planning.
 
+- [**UBC MDS Distributed System Coursework**](https://github.com/andrew-ng1/spark-cassandra-labs) - Utilized Scala in Databricks to generate synthetic customer/order datasets, applied Spark (PySpark) to build distributed ETL pipelines on this data, and implemented Cassandra (NoSQL) schemas for student/course data with replication and CRUD queries.
+
 ---
 
 ### 📈 **Current Work**
